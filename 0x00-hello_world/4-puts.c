@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- *
- * Description: using the main function
+ * main- entry point
  *
  * return: 0
  */
