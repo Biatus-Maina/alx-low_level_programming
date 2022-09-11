@@ -4,11 +4,15 @@
 
 /**
 
- * main - Entry point
+ * main - prints the string in the function
 
  *
 
- * Return: Always 0 (Success)
+ * Description: using the main function
+
+ *this program prints "Programming is like building a multilingual puzzle"
+
+ *return (0);
 
  */
 
