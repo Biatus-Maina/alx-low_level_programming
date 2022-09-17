@@ -29,5 +29,5 @@ int main(void)
 			printf("%d ", h);
 	h++;
 	}
-	return (0);
+return (0);
 }
