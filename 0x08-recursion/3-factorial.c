@@ -2,9 +2,9 @@
 
 /**
  * factorial - Calculate the factorial of a number
- *  @n: the number to calculate the factorial
+ * @n: the number to calculate the factorial
  *  
- *  Return: integer value
+ * Return: integer value
  */
 int factorial(int n)
 {
